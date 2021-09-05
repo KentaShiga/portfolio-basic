@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:css": "stylelint --fix **/*.{css,scss,sass}",
-    "sass": "sass src/scss/:dist/css/ --no-source-map --watch"
+    "sass": "sass src/scss/:dist/css/ --no-source-map"
   },
   "keywords": [],
   "author": "",
